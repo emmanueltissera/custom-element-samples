@@ -1,6 +1,8 @@
-# Components element
+# Icon Selector
 
-In Kentico Cloud there is linked items element as well as linked items as a part of the rich text. Then there are components as a part of the rich text, but there are components missing as a stand-alone element so editors can't create as many components as they need with no related items created.
+In Kentico Cloud, an icon selector can be specified by using the `Multiple Choice` content element. But this lacks in usablility as the content author has to guess what icon will be displayed when a particular choice is made. The icon selector hopes to make the life of the content editor easier with an easy to use dropdown of icons.
+
+The icon selector allows the developer to specify in the configuration what labels are displays for particular icons and what values are to saved in the content element.
 
 You can test it by configuring https://emmanueltissera.github.io/custom-element-samples/IconSelector/index.html url for your custom element.
 
