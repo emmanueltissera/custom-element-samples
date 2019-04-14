@@ -2,7 +2,7 @@
 
 In Kentico Cloud there is linked items element as well as linked items as a part of the rich text. Then there are components as a part of the rich text, but there are components missing as a stand-alone element so editors can't create as many components as they need with no related items created.
 
-You can test it by configuring https://raw.githubusercontent.com/emmanueltissera/custom-element-samples/master/IconSelector/index.html url for your custom element.
+You can test it by configuring https://emmanueltissera.github.io/custom-element-samples/IconSelector/index.html url for your custom element.
 
 You can provide an array of icons to be displayed with their source files, labels and values.
 
@@ -28,30 +28,30 @@ Following {JSON} parameters show five options specified:
     {
       "label": "Firewall",
       "value": "firewall",
-      "icon": "https://raw.githubusercontent.com/emmanueltissera/custom-element-samples/master/IconSelector/samples/osa_firewall.svg"
+      "icon": "https://emmanueltissera.github.io/custom-element-samples/IconSelector/samples/osa_firewall.svg"
     },
     {
       "label": "Home",
       "value": "home",
-      "icon": "https://raw.githubusercontent.com/emmanueltissera/custom-element-samples/master/IconSelector/samples/osa_home.svg"
+      "icon": "https://emmanueltissera.github.io/custom-element-samples/IconSelector/samples/osa_home.svg"
     },
     {
       "label": "Architect",
       "value": "architect",
-      "icon": "https://raw.githubusercontent.com/emmanueltissera/custom-element-samples/master/IconSelector/samples/osa_user_green_architect.svg"
+      "icon": "https://emmanueltissera.github.io/custom-element-samples/IconSelector/samples/osa_user_green_architect.svg"
     },
     {
       "label": "Project Manager",
       "value": "projectManager",
-      "icon": "https://raw.githubusercontent.com/emmanueltissera/custom-element-samples/master/IconSelector/samples/osa_user_green_project_manager.svg"
+      "icon": "https://emmanueltissera.github.io/custom-element-samples/IconSelector/samples/osa_user_green_project_manager.svg"
     },
     {
       "label": "Security Specialist",
       "value": "security-specialist",
-      "icon": "https://raw.githubusercontent.com/emmanueltissera/custom-element-samples/master/IconSelector/samples/osa_user_blue_security_specialist.svg"
+      "icon": "https://emmanueltissera.github.io/custom-element-samples/IconSelector/samples/osa_user_blue_security_specialist.svg"
     }
   ]
 }
 ```
 
-![screenshot](https://lh3.googleusercontent.com/OTGQD65sH1CcsnMai7w1i5_ed-xLP_w1Lq2xY7qJdr8IMtZ31glekMS2FtO1g4PMeQpHA-Kkqhu7frkimoCkZzUPU1McPERLSmVf3qm0MSGh-jsYc8U5cjPHrN4PyptsbbbgsVbl-g=w901-h988-no)
+![screenshot](https://lh3.googleusercontent.com/kQc5uQEul8StZNRCLAtZ6XC2eT8PLx0qc9KlZC2q4UwoXj3sXoII5V0z5r3mvSTVaKseda_DvfhoKqkhAxrhoNeO8iYKD8Fn-0r94IX7ewRd8XzeggFMEhOj8rrOydgYAlVgCOtCHQ=w1013-h1028-no)
